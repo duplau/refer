@@ -1,3 +1,10 @@
+## Test sur le jeu de données "Produits phyto"
+
+Résultats au 16/02/2017 :
+* 1224 questions au total
+* 1130 questions avec un objectif
+* 955 réponses correctes
+
 __Réponses incorrectes__
 
 |Question|Objectif|Réponse 1|Réponse 2|Réponse 3|
