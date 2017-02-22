@@ -1,6 +1,8 @@
 ## Préambule
 
-Ce mémo présente une suggestion d'interface pour notre projet de référencement. Il a peu à voir avec la première version que j'avais détaillée dans un autre document : d'une part il est plus concis afin de faciliter la compréhension, d'autre part il est aligné avec notre dernière discussion (le 20 février) dont sont sorties des specs assez différentes de la première itération.
+Ce mémo présente une suggestion de spécifications fonctionnelles (backend et frontend mais pas technique ni d'architecture) pour notre projet de référencement. 
+
+Il a peu à voir avec la première version que j'avais détaillée dans un autre document : d'une part il est plus concis afin de faciliter la compréhension, d'autre part il est aligné avec notre dernière discussion (le 20 février) dont sont sorties des specs assez différentes de la première itération.
 
 ## Stockage de données
 
