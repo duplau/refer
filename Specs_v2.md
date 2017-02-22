@@ -53,13 +53,15 @@ L'utilisation asynchrone permet de traiter les gros volumes de données et de g�
 obtenir les résultats, ou en erreur avec des messages d’erreur)
 - __Une requête de téléchargement des résultats__ (si l’utilisateur ne souhaite pas les télécharger directement)
 
+L'ensemble des fonctionnalités décrites ci-dessus est résumé par ce 
+[diagramme](https://github.com/duplau/refer/blob/master/flow_diagram.png?raw=true).
+
 ### Fonctionnalités "nice-to-have"
 
-* __Suggestions du système__, par exemple restriction du domaine de référencement : ainsi dans le cas où toutes les données source correspondent à une institution de type laboratoire, il est inutile de faire tourner le processus sur l'ensemble de la base SIREN.
+* __Suggestions du système__, préalablement au référencement proprement dit. Par exemple : restriction du domaine de référencement : ainsi dans le cas où toutes les données source correspondent à une institution de type laboratoire, il est inutile de faire tourner le processus sur l'ensemble de la base SIREN.
+* __Corrections utilisateur__ : suite à la phase de référencement, l'utilisateur peut réutiliser les résultats en corrigeant manuellement les valeurs remplies par le système dans une ou plusieurs nouvelles colonne, puis réinjecter ces modifications. Cette opération a deux objectifs, d'une part corriger les résultats de référencement optionnellement stockés par le système, d'autre part guider le composant "apprentissage automatique" du système.
 
 ### Propositions de design graphique
-
-[Diagramme système](https://github.com/duplau/refer/blob/master/flow_diagram.png?raw=true)
 
 [Page de paramétrage](https://github.com/duplau/refer/blob/master/parameters_screen.png?raw=true)
 
