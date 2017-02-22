@@ -57,17 +57,11 @@ obtenir les résultats, ou en erreur avec des messages d’erreur)
 
 ### Propositions de design graphique
 
-__Diagramme système__
+[Diagramme système](https://github.com/duplau/refer/blob/master/flow_diagram.png?raw=true)
 
-https://github.com/duplau/refer/blob/master/flow_diagram.png?raw=true
+[Page de paramétrage](https://github.com/duplau/refer/blob/master/parameters_screen.png?raw=true)
 
-__Page de paramétrage__
-
-https://github.com/duplau/refer/blob/master/parameters_screen.png?raw=true
-
-__Page de visualisation des résultats__
-
-https://github.com/duplau/refer/blob/master/results_screen.png?raw=true
+[Page de visualisation des résultats](https://github.com/duplau/refer/blob/master/results_screen.png?raw=true)
 
 ### Autres
 
