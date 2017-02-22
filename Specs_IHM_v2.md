@@ -55,6 +55,20 @@ obtenir les résultats, ou en erreur avec des messages d’erreur)
 
 * __Suggestions du système__, par exemple restriction du domaine de référencement : ainsi dans le cas où toutes les données source correspondent à une institution de type laboratoire, il est inutile de faire tourner le processus sur l'ensemble de la base SIREN.
 
+### Propositions de design graphique
+
+__Diagramme système__
+
+https://github.com/duplau/refer/blob/master/flow_diagram.png?raw=true
+
+__Page de paramétrage__
+
+https://github.com/duplau/refer/blob/master/parameters_screen.png?raw=true
+
+__Page de visualisation des résultats__
+
+https://github.com/duplau/refer/blob/master/results_screen.png?raw=true
+
 ### Autres
 
 __Charte d'utilisation__
