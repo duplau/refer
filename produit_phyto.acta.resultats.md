@@ -1,5 +1,12 @@
 ## Test sur le jeu de données "Produits phyto"
 
+Nouveaux résultats au 21/02/2017, après une légère amélioration du matching (mais sans changer pour l'algo fuzzywuzzy qui au vu des quelques tests produit une précision bien inférieure) :
+* 1224 questions au total
+* 1130 questions avec un objectif
+* 1006 réponses correctes
+
+----
+
 Résultats au 16/02/2017 :
 * 1224 questions au total
 * 1130 questions avec un objectif
