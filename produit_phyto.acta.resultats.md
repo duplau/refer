@@ -1,18 +1,28 @@
-## Test sur le jeu de données "Produits phyto"
+## Tests sur le jeu de données "Produits phyto"
 
-Nouveaux résultats au 21/02/2017, après une légère amélioration du matching (mais sans changer pour l'algo fuzzywuzzy qui au vu des quelques tests produit une précision bien inférieure) :
+
+__Résultats au 27/02/2017__, cette fois avec l'algo fuzzywuzzy sous-jacent à notre méthode de matching ad-hoc, mais toujours sans gérer explicitement les acronymes (donc encore un peu marge de manoeuvre, même si les acronymes sont difficiles à gérer sur ce jeu de données qui est riche en noms de produits courts et écrits en capitale :  ADAC, NICO, OPUS, ROXY, etc...) :
+
+* 1224 questions au total
+* 1130 questions avec un objectif
+* 1047 réponses correctes
+
+----
+
+__Résultats au 21/02/2017__, après une légère amélioration du matching (mais sans changer pour l'algo fuzzywuzzy qui au vu des quelques tests produit une précision bien inférieure) :
 * 1224 questions au total
 * 1130 questions avec un objectif
 * 1006 réponses correctes
 
 ----
 
-Résultats au 16/02/2017 :
+__Résultats au 16/02/2017__
+
 * 1224 questions au total
 * 1130 questions avec un objectif
 * 955 réponses correctes
 
-__Réponses incorrectes__
+Réponses incorrectes :
 
 |Question|Objectif|Réponse 1|Réponse 2|Réponse 3|
 |--------|--------|---------|---------|---------
@@ -35,7 +45,7 @@ __Réponses incorrectes__
 |super metrine|cypermethrine|FENOVA SUPER|DUPLOSAN SUPER|CONDOR SUPER 5|FENOVA SUPER|DUPLOSAN SUPER|CONDOR SUPER 5|FENOVA SUPER|DUPLOSAN SUPER|CONDOR SUPER 5|
 |TICOTOP|TYPY TOP|PICOTOP|
 
-__Zéro réponse__
+Zéro réponse :
 
 |Question|Objectif|
 |--------|--------|
