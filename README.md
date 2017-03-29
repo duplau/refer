@@ -4,6 +4,14 @@ Je donne ici des échantillons (aussi représentatifs que possibles sans en mont
 
 Dans chaque tableau montrant la sortie du code, j'ai mis vers la fin les résultats problématiques (normalisation incorrecte ou pas réalisée).
 
+__Inférence de type de données : Produits phytosanitaires__
+
+[Exemple de résultats](https://github.com/duplau/refer/blob/master/eval/mention_licence.apb.resultats.md).
+
+__Inférence de type de données : Mentions de choix APB__
+
+[Exemple de résultats](https://github.com/duplau/refer/blob/master/eval/produit_phyto.acta.resultats.md).
+
 __Normalisation de dates__
 
 TODO example md output
@@ -75,4 +83,3 @@ TODO example md output
 __Expansion des acronymes, synonymes et autres variantes__
 
 TODO example md output
-
