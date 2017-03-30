@@ -44,23 +44,6 @@ C'est un exemple de type de données composite, donc on voit ici que la valeur d
 |UFR de Chimie, Bâtiment B - UJF - BP 53 - 38041 Grenoble cedex 9|UFR de Chimie, Bâtiment B - UJF - BP 53 - 38041 Grenoble cedex 9|bp 53 38041grenoble cedex 9; bp 53 - 38041 - grenoble cedex 9|grenoble cedex 9|38041|bp 53||||
 |UJF - Site Santé La Tronche - BP 170 - 38042 Grenoble Cedex 9|UJF - Site Santé La Tronche - BP 170 - 38042 Grenoble Cedex 9|170 38042grenoble cedex 9; 170 - 38042 - grenoble cedex 9|grenoble cedex 9|38042|170||||
 
-||IEA/IRD Université de Provence Case 58 - 3 place Victor HUGO - 13331 Marseille Cedex 3|place victor hugo - 13331 - marseille cedex 3|||||||
-||3, Route de Mende, 34199 Montpellier cedex 5|3 route de mende - cedex - 5|||||||
-||Agropole, CS 45002, 86550 Mignaloux-Beauvoir, France|cs 45002 - 86550 - mignaloux-beauvoir - france|||||||
-||46, rue d'Amsterdam|46 rue d'amsterdam|||||||
-||7, rue de la Croix Martre, 91120 Palaiseau|7 rue de la croix martre - 91120 - palaiseau|||||||
-||UMR 6578 27 bd Jean Moulin 13385 MARSEILLE CEDEX 05|27 bd jean moulin - 13385 - marseille cedex 05|||||||
-||Université Paul-Valéry - Site de Saint-Charles - Route de Mende - 34 199 Montpellier Cedex 5|34 route de mende - 199 montpellier cedex - 5|||||||
-||14, rue Corvisart - 75013 Paris|14 rue corvisart - 75013 - paris|||||||
-||40 bis rue Fabert, 75007 Paris|40 bis rue fabert - 75007 - paris|||||||
-||40 bis rue Fabert 75007 PARIS|40 bis rue fabert - 75007 - paris|||||||
-||57070;Metz|57070 - metz|||||||
-||57078 Cedex 03;METZ|03 - 57078 cedex - metz|||||||
-||METZ|metz|||||||
-||200 Chemin des Ormeaux, 69578 LIMONEST|200 chemin des ormeaux - 69578 - limonest|||||||
-||91190 Gif-sur-Yvette, France|91190 - gif-sur-yvette - france|||||||
-||18 rue des Pins, 11570 Cazilhac, France|18 rue des pins - 11570 - cazilhac - france|||||||
-||UJF - Site Santé - Bâtiment Edmond J. Safra - Chemin Fortuné Ferrini 38706 La Tronche Cedex|38706 - la tronche cedex|||||||
 
 __Normalisation de noms de personnes__
 
