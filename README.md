@@ -44,7 +44,6 @@ C'est un exemple de type de données composite, donc on voit ici que la valeur d
 |UFR de Chimie, Bâtiment B - UJF - BP 53 - 38041 Grenoble cedex 9|UFR de Chimie, Bâtiment B - UJF - BP 53 - 38041 Grenoble cedex 9|bp 53 38041grenoble cedex 9; bp 53 - 38041 - grenoble cedex 9|grenoble cedex 9|38041|bp 53||||
 |UJF - Site Santé La Tronche - BP 170 - 38042 Grenoble Cedex 9|UJF - Site Santé La Tronche - BP 170 - 38042 Grenoble Cedex 9|170 38042grenoble cedex 9; 170 - 38042 - grenoble cedex 9|grenoble cedex 9|38042|170||||
 
-
 __Normalisation de noms de personnes__
 
 |Colonne mystère 1|Prénom|Nom|Nom de personne|
@@ -113,8 +112,19 @@ __Reconnaissance des acronymes__
 
 Quand un grand nombre d'acronymes sont repérés dans les valeurs d'un champ, chaque représentation sous forme d'acronyme resp. sous forme étendue est extraite dans son propre champ (autrement dit, même en l'absence d'inférence de type, 1 colonne en entrée en produit 3 en sortie ; avec un type inféré on en obtient 4 ; avec un type composite encore plus.)
 
-TODO example md output
+|Raison Sociale;name|Acronyme - Raison Sociale;name|
+|-|-|
+|Académie des technologies ; Syndicat mixte intercommunal de transport et de traitement des ordures ménagères de l'aire toulonnaise (SITTOMAT)||
+Développement Economique de l'agglomération rouennaise (ADEAR)|ADEAR|
+|agence publique pour l'immobilier de la justice (APIJ);Aubagne|APIJ||Agence centrale des organismes de sécurité sociale ;Agence régionale de l'environnement de Normandie ** AREN|AREN|
+|Agence centrale des organismes d'interventions dans le secteur agricole (ACOFA);Agence sanitaire et sociale de la Nouvelle-Calédonie||
+|Agence Française d'expertise technique internationale ;Association départementale d'aide à domicile aux personnes et d'accompagnement de la Corrèze (ADAPAC)||
 
 __Expansion des acronymes, synonymes et autres variantes__
 
-TODO example md output
+Un paramétrage permet de normaliser l'écriture de certains intitulés (par exemple les noms d'organismes, et un grand nombre de termes jargonnants dans des domaines métiers) qui peuvent se présenter sous une forme longue ou abrégée, telle qu'un acronyme, et plus généralement tout type de synonyme. 
+
+Lorsque cette option est activée, pour de tels termes, et dans un domaine métier identifié par un "type de base" (par exemple MESR), une forme principale est associée à un ou plusieurs synonymes. Le système remplace alors quaque forme alternative par la forme principale. 
+
+Par exemple,
+* la forme principale est la forme longue, et les synonymes sont des formes abrégées ou des acronymes: `Unité Mixte de Recherche, UMR`
