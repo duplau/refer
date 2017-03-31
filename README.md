@@ -112,12 +112,13 @@ __Reconnaissance des acronymes__
 
 Quand un grand nombre d'acronymes sont repérés dans les valeurs d'un champ, chaque représentation sous forme d'acronyme resp. sous forme étendue est extraite dans son propre champ (autrement dit, même en l'absence d'inférence de type, 1 colonne en entrée en produit 3 en sortie ; avec un type inféré on en obtient 4 ; avec un type composite encore plus.)
 
-|Raison Sociale;name|Acronyme - Raison Sociale;name|
+|Raison Sociale;name|Acronyme - Raison Sociale|
 |-|-|
 |Académie des technologies ; Syndicat mixte intercommunal de transport et de traitement des ordures ménagères de l'aire toulonnaise (SITTOMAT)||
 Développement Economique de l'agglomération rouennaise (ADEAR)|ADEAR|
+|Association Arc-En-Ciel;BOURGES||
 |agence publique pour l'immobilier de la justice (APIJ);Aubagne|APIJ||Agence centrale des organismes de sécurité sociale ;Agence régionale de l'environnement de Normandie ** AREN|AREN|
-|Agence centrale des organismes d'interventions dans le secteur agricole (ACOFA);Agence sanitaire et sociale de la Nouvelle-Calédonie||
+|Association Télécoms sans frontières ;Centre communal d'action sociale du Puy-en-Velay (CCAS du Puy-en-Velay)|CCAS||Agence centrale des organismes d'interventions dans le secteur agricole (ACOFA);Agence sanitaire et sociale de la Nouvelle-Calédonie||
 |Agence Française d'expertise technique internationale ;Association départementale d'aide à domicile aux personnes et d'accompagnement de la Corrèze (ADAPAC)||
 
 __Expansion des acronymes, synonymes et autres variantes__
