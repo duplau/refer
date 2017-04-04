@@ -16,6 +16,28 @@ __Normalisation d'adresses postales__
 
 C'est un exemple de type de données composite, donc on voit ici que la valeur de l'adresse complète est extraite et normalisée, mais aussi chacune de ses composantes (voie, code postal, commune, etc.) 
 
+Résultat sur des adresses françaises, avec juste le champ composite "adresse normalisée" en sortie. Noter qu'on traite les "cedex" dans la normalisation. Aussi, ces résultats sont plus précis que les résultats suivants, mais quand même pas mal de cas d'erreurs, dont j'ai inclus quelques-uns en fin de tableau :
+
+|Colonne mystère 3|Adresse|
+|-|-|
+|Route de Villejust 91625 Nozay Cedex|Route de Villejust 91620 Nozay|
+|CNRS, INPG, Grenoble, France||
+|23 quai de Conti 75270 Paris cedex 06|23 Quai de Conti 75006 Paris|
+|2 rue Stephenson, 78180 Montigny le Bretonneux|2 Rue George Stephenson 78180 Montigny-le-Bretonneux|
+|14 rue Kepler, 44240 La Chapelle-sur-Erdre|14 Rue Kepler 44240 La Chapelle-sur-Erdre|
+|Campus de Jussieu - 4 place Jussieu 75005 Paris|4 Place Jussieu 75005 Paris|
+|Centre de recherche Inserm avenue du haut-leveque 33600 PESSAC|Rue du Transformateur, HAUT-LEVEQUE 33600 Pessac||Agropole, CS 45002, 86550 Mignaloux-Beauvoir, France|Allée du Mars 86550 Mignaloux-Beauvoir|
+|Site Agroparc, 84914 Avignon, France|CITE DABRY 84000 Avignon|
+|UFR STAPS, Allée du château -- BP 6237, 45062 Orléans CEDEX 2|Allée d'Orléans 33000 Bordeaux|
+|Grand Vivier, F-38960 St Aupre|Route du Grand Vivier 38960 Saint-Aupre|
+|3PX Therapeutics, F-38000 Grenoble|Rue d'Agier 38000 Grenoble|
+|12, rue Ampère38000 Grenoble|12 Rue Ampère 38000 Grenoble|
+|Ouro-Preto|Pretot 76430 Étainhus|
+|24 Rue Victor Grignard - Guipavas - BP 143 - 29803 Brest Cedex 9, France|24 Rue Victor Grignard 29490 Guipavas|
+|Université Pierre et Marie Curie, 7, quai Saint Bernard, 75252 Paris Cedex 05, France|Quai Moulin du Bouchet 72400 La Ferté-Bernard|
+
+Résultat sur des adresses internationales, avec tous les champs composantes en sortie (voie, code postal, etc.) donc forcément davantage d'erreurs :
+
 |Colonne mystère 3|Entité Géo|Adresse|Commune|Code Postal|Voie|Pays|Région|Département|
 |-|-|-|-|-|-|-|-|-|
 |Museum National D'Histoire Naturelle 43 Rue Cuvier 75231 Paris Cedex 05|Museum National D'Histoire Naturelle 43 Rue Cuvier 75231 Paris Cedex 05|43rue cuvier75231paris cedex 05; 43 rue cuvier - 75231 - paris cedex 05|paris cedex 05|75231|rue cuvier; 43||||
