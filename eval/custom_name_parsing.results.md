@@ -2,8 +2,6 @@
 
 |Source|Nom #1|Nom #2|Nom #3|
 |-|-|-|-|
-|Nom de personne|De NOM|
-|Colonne mystère 1|COLONNE|
 |Françoise Denoyelle|Françoise DENOYELLE|
 |BRUNEL Sylvie|Sylvie BRUNEL|
 |WALCH Agnès|Agnès WALCH|
@@ -18,8 +16,8 @@
 |Martine de Gaudemar|Martine-de GAUDEMAR|
 |Andréas PFERSMANN|Andréas PFERSMANN|
 |Élisabeth Parinet|ÉLISABETH|
-|Knopper, Françoise, Mondot, Jean (éds.)|KNOPPER|MONDOT|Jean (ÉDS.|
-|Robic, Jean-François|ROBIC|Jean-françois FRANÇOIS|
+|Knopper, Françoise, Mondot, Jean (éds.)|KNOPPER|MONDOT|Jean (ÉDS|
+|Robic, Jean-François|ROBIC|Jean FRANÇOIS|
 |Bernard Legras|Bernard LEGRAS|
 |Monique Castillo|Monique CASTILLO|
 |Pirlot G.|G. PIRLOT|
@@ -28,9 +26,9 @@
 |Pierre Laforgue|Pierre LAFORGUE|
 |E. Lecuppre-Desjardin|E-lecuppre DESJARDIN|
 |F. Lecercle|F. LECERCLE|
-|CHATELLUS, Adélaïde de, ed.|CHATELLUS|De ADÉLAÏDE|Ed ED.|
+|CHATELLUS, Adélaïde de, ed.|CHATELLUS|De ADÉLAÏDE|
 |Z.Khelfaoui|Z. KHELFAOUI|
-|Descargues-Grant Madeleine|Descargues-madeleine DESCARGUES-|
+|Descargues-Grant Madeleine|Madeleine DESCARGUES|
 |Yves Lafond|Yves LAFOND|
 |D. Maingueneau|D. MAINGUENEAU|
 |Henri Oberdorff|Henri OBERDORFF|
@@ -55,20 +53,20 @@
 |J.P. Poly|J-p POLY|
 |D. Mainguy|D. MAINGUY|
 |Michel Kokoreff|Michel KOKOREFF|
-|Allinne (J.P.)|P. (J.|
+|Allinne (J.P.)|P. (J|
 |Yves CHARBIT|Yves CHARBIT|
 |L. PERREAU|L. PERREAU|
-|Adolphe L.|Adolphe-l ADOLPHE|
+|Adolphe L.|L. ADOLPHE|
 |Audiffren, M., Tomporowski, P., & Zagrodnik, J.|AUDIFFREN|TOMPOROWSKI|ZAGRODNIK|
 |Bertrand Réau|Bertrand RÉAU|
 |BAKHOUCHE Béatrice & LUCIANI Sabine|Béatrice BAKHOUCHE|Sabine LUCIANI|
-|N. Paul, M. Terré, L. Féty|N-paul PAUL|M. TERRÉ|L. FÉTY|
+|N. Paul, M. Terré, L. Féty|N. PAUL|M. TERRÉ|L. FÉTY|
 |farid mkaouar, jean-luc prigent|Farid MKAOUAR|Jean-luc PRIGENT|
 |LATOUR X.|X. LATOUR|
 |Antoine Lemenant|Antoine LEMENANT|
 |Sarrazin, J.; Mahe, Y.; Avrillon, S.; Toutain, S.|J. SARRAZIN|Y. MAHE|S. AVRILLON|
 |Antoine, P., Christophe, V., & Nandrino, J.-L.|NANDRINO|
-|Antonio Capone, Jocelyne ELIAS, Fabio Martignon|Antonio CAPONE|Jocelyne-elias ELIAS|Fabio MARTIGNON|
+|Antonio Capone, Jocelyne ELIAS, Fabio Martignon|Antonio CAPONE|Jocelyne ELIAS|Fabio MARTIGNON|
 |A. Nouy|A. NOUY|
 |Jonathan Degenève|Jonathan DEGENÈVE|
 |Garbaye, Romain|GARBAYE|
@@ -77,15 +75,15 @@
 |Pierre Auger Collaboration|Pierre AUGER|
 |GENSSE Pierre|Pierre GENSSE|
 |Zerrouki, C., Fourati, N., Lucas, R., Vergnaud, J., Fougnion, J.M., Zerrouki, R., Pernelle, C.|ZERROUKI|FOURATI|VERGNAUD|
-|G. Valette, S. Prévost, L. Lucas et J. Léonard|G. VALETTE|S. PRÉVOST|L-lucas LUCAS|
+|G. Valette, S. Prévost, L. Lucas et J. Léonard|G. VALETTE|S. PRÉVOST|L. LUCAS|
 |BAKHOUCHE Béatrice, LUCIANI Sabine|Béatrice BAKHOUCHE|Sabine LUCIANI|
 |Rau Clement|Clement RAU|
 |Islam Boussaada, A. Raouf Chouikha, Jean-Marie Strelcyn|BOUSSAADA|A. CHOUIKHA|Jean-marie STRELCYN|
 |Cyril de Runz, Eric Desjardin|Cyril-de RUNZ|Eric DESJARDIN|
-|CLEMENT - Alain|Clement-alain CLEMENT|
-|Jean-Noël PASCAL, éditeur scientifique|Jean-noël-pascal PASCAL|SCIENTIFIQUE|
+|CLEMENT - Alain|Alain CLEMENT|
+|Jean-Noël PASCAL, éditeur scientifique|Jean-noël PASCAL|SCIENTIFIQUE|
 |Maguire, Lori (Gloria)|MAGUIRE|Lori (GLORIA)|
-|Haddad-Wotling Karen|Haddad-karen HADDAD-|
+|Haddad-Wotling Karen|Haddad-karen WOTLING|
 |Georges-Claude Guilbert|Georges-claude GUILBERT|
 |S. Leveneur, T. Salmi, N. Musakka, J. Wärnå|S. LEVENEUR|T. SALMI|N. MUSAKKA|
 |Cavallucci D., Rousselot F. and Zanni C.,|D. CAVALLUCCI|F. ROUSSELOT|C. ZANNI|
@@ -102,20 +100,20 @@
 |LEONARD Monique|Monique LEONARD|
 |P. Vidal, O. Polit|P. VIDAL|O. POLIT|
 |François-Xavier Dillmann|François-xavier DILLMANN|
-|Bertrand F.|Bertrand-f BERTRAND|
-|V. Magnenet, A. Giraud, and F. Homand.|V. MAGNENET|A. GIRAUD|F-homand HOMAND.|
+|Bertrand F.|F. BERTRAND|
+|V. Magnenet, A. Giraud, and F. Homand.|V. MAGNENET|A. GIRAUD|F. HOMAND|
 |G. GILET, J.-M. DISCHLER|G. GILET|M. J-m DISCHLER|
 |A. Nouy|A. NOUY|
 |DERRAZ F., PEYRODIE L., PINTI A., TALEB-AHMED A., CHIKH A., HAUTECOEUR P.|F. DERRAZ|L. PEYRODIE|A. PINTI|
 |Sallez Y., Berger T., Trentesaux D.|Y. SALLEZ|T. BERGER|D. TRENTESAUX|
-|DROMER O, ALATA O, and BERNARD O.|DROMER|ALATA|Bernard-o BERNARD|
+|DROMER O, ALATA O, and BERNARD O.|DROMER|ALATA|O. BERNARD|
 |Giblin Béatrice|Béatrice GIBLIN|
 |François Cusset|François CUSSET|
 |Houari Maïdi|HOUARI|
 |Claude Andrault-Schmitt|Claude-andrault SCHMITT|
 |Marie-Elodie Ancel|Marie-elodie ANCEL|
 |Max Gounelle|Max GOUNELLE|
-|Hélène MICHEL|Hélène-michel MICHEL|
+|Hélène MICHEL|Hélène MICHEL|
 |G. Colin, G. Bloch, Y. Chamaillard et F. Anstett|G. COLIN|G. BLOCH|Y. CHAMAILLARD|
 |C. Rémazeilles and Ph. Refait|C. RÉMAZEILLES|Ph REFAIT|
 |Texier C, Vidau C, Viguès B, El Alaoui H, Delbac F|TEXIER|VIDAU|VIGUÈS|
@@ -128,7 +126,7 @@
 |E. Chevereau, N. Zouaoui, L. Limousy, P. Dutournié, S. Déon, P. Bourseau|E. CHEVEREAU|N. ZOUAOUI|L. LIMOUSY|
 |Leconte|LECONTE|
 |Amine, Baumann, Lages Dos Santos, Valognes|BAUMANN|SANTOS|VALOGNES|
-|O. Guyotjeannin (dir. scientifique)|O. (DIR.|
+|O. Guyotjeannin (dir. scientifique)|O. (DIR|
 |Mathias Schonbuch|Mathias SCHONBUCH|
 |Jacobo Machover|MACHOVER|
 |Annie BEZIZ-AYACHE|Annie-beziz AYACHE|
@@ -170,14 +168,14 @@
 |J. RAMOUSSE, S. DIDIERJEAN, O. LOTTIN, D. MAILLET|J. RAMOUSSE|S. DIDIERJEAN|O. LOTTIN|
 |V. MESTER, F. GILLON, S. BRISSET, P. BROCHET, M. RADULESCU|V. MESTER|F. GILLON|S. BRISSET|
 |Adel Hamdi|Adel HAMDI|
-|MICHEL Pierre|Michel-pierre MICHEL|
+|MICHEL Pierre|Pierre MICHEL|
 |Jean Peeters|Jean PEETERS|
 |F. Lissarrague|F. LISSARRAGUE|
 |Chantal Duchet|Chantal DUCHET|
-|R. Stephan, A. Mehdaoui, D. Berling and P.Wetzel|R-stephan STEPHAN|A. MEHDAOUI|D. BERLING|
+|R. Stephan, A. Mehdaoui, D. Berling and P.Wetzel|R. STEPHAN|A. MEHDAOUI|D. BERLING|
 |Freret T, Bouet V, Toutain J, Saulnier R, Pro-Sistiaga P, Bihel E, Mackenzie ET, Roussel S, Schumann-Bard P, Touzani O.|FRERET|BOUET|TOUTAIN|
-|L. Jutier, C. Léonard and F. Gatti.|L. JUTIER|C-léonard LÉONARD|F-gatti GATTI.|
-|D. Mercier, V. Régnier (ordre alphabétique, travail 50-50).|D. MERCIER|V. RÉGNIER|50).|
+|L. Jutier, C. Léonard and F. Gatti.|L. JUTIER|C. LÉONARD|F. GATTI|
+|D. Mercier, V. Régnier (ordre alphabétique, travail 50-50).|D. MERCIER|V. RÉGNIER|50)|
 |Thierry Nobre, Caroline Merdinger|Thierry NOBRE|Caroline MERDINGER|
 |V.F. Silva, V. Bouquet, S. Députier, S. Boursicot, S. Ollivier, I.T. Weber, V.L. Silva, I.M.G. Santos, M. Guilloux-Viry,  A. Perrin|V-f SILVA|V. BOUQUET|S. DÉPUTIER|
 |Moyal, P.|MOYAL|
@@ -185,10 +183,10 @@
 |L.LEPETIT, E. NYS, Ph. ROUS et A. TARAZI|L. LEPETIT|E. NYS|Ph ROUS|
 |Moron Vincent, Robertson Andrew, Ward M. Neil, Ndiaye Ousmane|Vincent MORON|Andrew ROBERTSON|M. M-neil WARD|
 |Le Mével J.C, Lancien F., Mimassi N., Conlon J.M|J. MÉVEL|F. LANCIEN|N. MIMASSI|
-|Gonzàlez-Rios O., Suàrez-Quiroz M.L., Boulanger R., Barel M., Guyot B., Guiraud J.P., Schorr-Galindo S.|Gonzàlez-o GONZÀLEZ-|M. Suàrez-m-l SUÀREZ-|R. BOULANGER|
+|Gonzàlez-Rios O., Suàrez-Quiroz M.L., Boulanger R., Barel M., Guyot B., Guiraud J.P., Schorr-Galindo S.|O. GONZÀLEZ|M. Suàrez-m-l QUIROZ|R. BOULANGER|
 |Berger T., Sallez Y., Valli B., Gibaud A., Trentesaux D.|T. BERGER|Y. SALLEZ|B. VALLI|
 |M. Fontaine, A. Devillez, A. Moufki, D. Dudzinski,|M. FONTAINE|A. DEVILLEZ|A. MOUFKI|
-|Hubert C., Dubar L., Dubar M., Dubois A.|Hubert-c HUBERT|L. DUBAR|M. DUBAR|
+|Hubert C., Dubar L., Dubar M., Dubois A.|C. HUBERT|L. DUBAR|M. DUBAR|
 |Charles-Edmond BICHOT|Charles-edmond BICHOT|
 ||
 |A.ALLAL, B. VERGNES|A. ALLAL|B. VERGNES|
@@ -201,7 +199,7 @@
 |Martin NDENDE|Martin NDENDE|
 |C. Grimaldi|C. GRIMALDI|
 |Stephanie Rohlfing-Dijoux|Stephanie-rohlfing DIJOUX|
-|A. Makky, J.P. Michel, A. Kasselouri, Ph. Maillard et V. Rosilio.|A. MAKKY|J-p-michel MICHEL|A. KASSELOURI|
+|A. Makky, J.P. Michel, A. Kasselouri, Ph. Maillard et V. Rosilio.|A. MAKKY|J-p MICHEL|A. KASSELOURI|
 |Rabatel Alain|Alain RABATEL|
 |Brigitte GAÏTI|Brigitte GAÏTI|
 |Jérôme Thélot|Jérôme THÉLOT|
@@ -213,14 +211,14 @@
 |J.-Y. Andrieux|J-y ANDRIEUX|
 |CARRAUD Vincent|Vincent CARRAUD|
 |Marie-Jo Thiel|Marie JO|
-|Arnauld Pierre|Arnauld-pierre ARNAULD|
+|Arnauld Pierre|Pierre ARNAULD|
 |Tancelin Philippe|Philippe TANCELIN|
 |M. Veit, A. Capobianco, D. Bechmann|M. VEIT|A. CAPOBIANCO|D. BECHMANN|
 |Sylvie Neyertz et David Brown|Sylvie NEYERTZ|David BROWN|
 |Mohamed Ali MAROUANI|Mohamed-ali MAROUANI|
 ||
 |Mathy, F. & Feldman, J.|MATHY|FELDMAN|
-|GRANGE P., CLAIR D., FOGLI M., BAILLET L.|P. GRANGE|Clair-d CLAIR|M. FOGLI|
+|GRANGE P., CLAIR D., FOGLI M., BAILLET L.|P. GRANGE|D. CLAIR|M. FOGLI|
 |GOMEZ-MULLER, Alfredo|Gomez MULLER|
 |Sophie Papaefthymiou|Sophie PAPAEFTHYMIOU|
 |Abdelkhaleq Berramdane|ABDELKHALEQ|
@@ -231,7 +229,7 @@
 |Namer, Fiammetta|NAMER|FIAMMETTA|
 |Cecchelli R, Berezowski V, Lundquist S, Culot M, Renftel M, Dehouck MP, Fenart L.|CECCHELLI|BEREZOWSKI|LUNDQUIST|
 |Marty, Lamaze et Pornon|MARTY|LAMAZE|PORNON|
-|J. Argyriades et al.|J. ARGYRIADES|Al AL.|
+|J. Argyriades et al.|J. ARGYRIADES|
 |Julien Garaud, Mikhail Volkov|Julien GARAUD|MIKHAIL|
 |A. Ivanco, G. Colin, Y. Chamaillard, A. Charlet, P. Higelin|A. IVANCO|G. COLIN|Y. CHAMAILLARD|
 |L. Giraudet, O. Simonetti|L. GIRAUDET|O. SIMONETTI|
@@ -243,24 +241,24 @@
 |Grandhomme (Jean-Noël)|GRANDHOMME|
 |Aude ROUYERE|Aude ROUYERE|
 |Routier Richard|Richard ROUTIER|
-|Andrea Bréard|BRÉARD|
+|Andrea Bréard|ANDREA|
 |P.M. Eisemann|M. P-m EISEMANN|
-|Luce, Jean-Marc|LUCE|Jean-marc JEAN-|
+|Luce, Jean-Marc|LUCE|Marc JEAN|
 |N. Alonso-Vante|N-alonso VANTE|
 |Jan Spurk|Jan SPURK|
 |Bozoky, Edina|BOZOKY|EDINA|
 |Christian CHELEBOURG (editor)|Christian CHELEBOURG|
 |Jean-Daniel Causse|Jean-daniel CAUSSE|
 |Véronique Magri-Mourgues|Véronique-magri MOURGUES|
-|SANTIAGO, Jorge P.|Jorge-p JORGE|
+|SANTIAGO, Jorge P.|P. JORGE|
 |Paul DIETSCHY and David-Claude KEMO KEIMBOU|Paul DIETSCHY|David-claude KEMO|
-|B. Grunberg [ed.],|B. [ED.|
+|B. Grunberg [ed.],|B. [ED|
 |CARMEN ALEN GARABATO|Carmen ALEN|
 |Jean-Yves GUILLAUMIN|Jean-yves GUILLAUMIN|
 |Frédéric MONNEYRON|Frédéric MONNEYRON|
 |VAHLAS Alexis|Alexis VAHLAS|
 |Romain Raveaux, Jean-Christophe Burie, Jean-Marc Ogier|Romain RAVEAUX|Jean-christophe BURIE|Jean-marc OGIER|
-|Ngalasso-Mwatha, Musanji, dir.|Ngalasso MWATHA|MUSANJI|Dir DIR.|
+|Ngalasso-Mwatha, Musanji, dir.|Ngalasso MWATHA|MUSANJI|
 |BAKHOUCHE Béatrice|Béatrice BAKHOUCHE|
 |P. Ruello, S. Zhang, P. Laffez, B. Perrin and V. Gusev|P. RUELLO|S. ZHANG|P. LAFFEZ|
 |Pierre Verlot, Alexandros Tavernarakis, Tristan Briant, Pierre-François Cohadon et Antoine Heidmann|Pierre VERLOT|TAVERNARAKIS|Tristan BRIANT|
@@ -281,7 +279,7 @@
 |SAFFI Sophie|Sophie SAFFI|
 |Schreck E., Geret F., Gontier L. and Treilhou M.|E. SCHRECK|F. GERET|L. GONTIER|
 |DESCENDRE Romain|Romain DESCENDRE|
-|Wester-Ouisse Véronique|Wester-véronique VÉRONIQUE|
+|Wester-Ouisse Véronique|Wester VÉRONIQUE|
 |VINCENT BREMOND|Vincent BREMOND|
 |S. Déon, P. Dutournié, L. Limousy, P. Bourseau|S. DÉON|P. DUTOURNIÉ|L. LIMOUSY|
 |L. RAKOTONDRAMASY-RABESIAKA, J.-L. HAVET, C. PORTE and H. FAUDUET|L-rakotondramasy RABESIAKA|J-l HAVET|C. PORTE|
